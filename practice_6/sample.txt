@@ -1,0 +1,5 @@
+Hello, this is a sample file.
+This file is used for Python practice.
+Python is fun!
+Let's practice reading, writing, and appending files.
+End of sample data.
